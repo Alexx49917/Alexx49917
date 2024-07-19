@@ -1,6 +1,7 @@
+![logo](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif)
 <h1 align="center">Hi 👋, I'm Laxman Basnet</h1>
 <h3 align="center">Data Detective</h3>
-![logo](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif)
+
 
 
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
